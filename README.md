@@ -1,6 +1,9 @@
+
+## NAME : YUVARAJ M
+## REG NO : 212224040377
+## DATE : 11/02/2026
+
 # EX-NO-7-Implement-DES-Encryption
-## NAME : KARTHICK V
-## REG NO : 212223040086
 
 ## Aim:
 
@@ -42,7 +45,8 @@ int main()
 }
 ```
 ## Output:
-<img width="1864" height="925" alt="image" src="https://github.com/user-attachments/assets/da27d1f0-ecb2-43b3-90bf-c4c5ee641a87" />
+<img width="1614" height="885" alt="Screenshot 2026-02-11 102315" src="https://github.com/user-attachments/assets/9de3a5b3-7882-4163-a24d-8c62538107cc" />
+
 
 ## Result:
 The program is executed successfully
